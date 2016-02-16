@@ -7,7 +7,7 @@ class Employee
     @phone = phone
     @salary = salary
   end
-  # def eligible_for_raise.array = []
-  # def work_satisfactory?
-
+  employee.new
+  def qualify_for_raise?
+    raise = [] << employee
 end

@@ -8,3 +8,5 @@ class Department
     staff = [] << new_employee
   end
 end
+def employee_salary
+  staff[0]employee.salary
